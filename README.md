@@ -2,5 +2,6 @@
 
 # BMI Calculator 💪
 
-<img width="357" alt="Screenshot 2022-04-27 at 11 39 19" src="https://user-images.githubusercontent.com/76222513/165490722-1df011bf-a305-4a00-ae17-ae132ed91342.png">
-<img width="353" alt="Screenshot 2022-04-27 at 11 39 24" src="https://user-images.githubusercontent.com/76222513/165490728-09006da3-cadb-4c63-bf9e-a265a486c0a3.png">
+
+<img width="351" alt="Screenshot 2022-04-27 at 11 52 51" src="https://user-images.githubusercontent.com/76222513/165492486-58521cd1-6d31-44d9-9054-bb7bf10b900d.png">
+<img width="354" alt="Screenshot 2022-04-27 at 11 52 19" src="https://user-images.githubusercontent.com/76222513/165492493-11426070-a30e-4ff4-a7d7-9351c771df47.png">
